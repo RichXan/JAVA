@@ -1,5 +1,6 @@
 package first;
 
+<<<<<<< HEAD
 public class Hello{
 		public static void main(String[]args) {
 			int n=100;
@@ -10,3 +11,12 @@ public class Hello{
 			System.out.println("n = "+n);
 		}
 }
+=======
+public class Hello {
+
+	public static void main(String[] args) {
+		System.out.println("Hello,world!");
+	}
+
+}
+>>>>>>> 345deb89bbcdf9e29719019b2bb2185a77fad0cc
